@@ -11,6 +11,10 @@ ls
 //más detalle de cada archivo
 ls -l
 
+// para mostrar los archivos ocultos
+
+ls -a
+
 //para entrar en una carpeta, además si pones el inicio de cualquier archivo por ejemplo una carpeta que empieza por downloads tu pones cd do y das tabulador te
 //completa
 cd
@@ -35,6 +39,11 @@ rm -rf y el nombre de la carpeta
 //para borrarlo todo, te borra todo el ordenador
 
 rm -rf .
+
+// para copiar algo de una carpeta a otra
+cp el nombre y luego un .
+
+
 
 
 
