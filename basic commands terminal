@@ -1,0 +1,36 @@
+//FTP o SSH, si tienes ssh puedes subir proyectos, inicializar le git etc..
+
+// Comandos básicos
+
+//el directorio actual
+pwd
+
+//listar los archivos donde estás
+ls
+
+//más detalle de cada archivo
+ls -l
+
+//para entrar en una carpeta, además si pones el inicio de cualquier archivo por ejemplo una carpeta que empieza por downloads tu pones cd do y das tabulador te
+//completa
+cd
+
+// para voler atrás sería y te devuelve a la carpeta anterior o raiz
+cd ..
+
+// para ver lo que contiene ese archivo podmeos hacer
+cat y el nombre del archivo
+
+//comando para crear una carpeta
+
+mkdir y el nombre
+
+//comando para borrar un archivo
+rm y el mobre del archivo
+
+//comando para borrar una carpeta
+
+rm -rf y el nombre de la carpeta
+
+
+
